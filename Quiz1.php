@@ -1,6 +1,6 @@
 <?php
 $title = '99 Bottles of Beer<hr>';
-echo "<div style ='font:26px/21px Arial,tahoma,sans-serif;color:#00ff00;text-align:center'>$title</div>";
+echo "<h1 style ='font:26px;font-style:italic;color:#ff0000;text-align:center'>$title</h1>";
 echo "<font size='5'>";
 for ($i=10; $i>=0; $i--)
 {
